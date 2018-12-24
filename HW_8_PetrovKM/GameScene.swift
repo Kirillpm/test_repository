@@ -4,7 +4,7 @@
 //
 //  Created by кирилл on 14.12.18.
 //  Copyright © 2018 Kirill Petrov. All rights reserved.
-// 1
+// qwerty
 
 import SpriteKit
 import GameplayKit
